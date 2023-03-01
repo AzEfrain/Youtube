@@ -1,0 +1,31 @@
+section {
+  background-color: rgb(49, 30, 160);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100vh;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+div {
+  background-color: rgb(5, 133, 12);
+  padding: 20px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  align-self: auto;
+
+}
+
+
+div {
+
+  flex-direction: row;
+}
+h1 {
+  background-color: rgb(140, 0, 255);
+  color:rgb(83, 158, 243);
+  text-align: center;
+
+}
